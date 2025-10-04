@@ -1,2 +1,3 @@
 # Lista de Presença - Atividade de Laboratório Git/GitHub
 20241002802138 Hugo Guilherme Vaz Mesquita
+20221002801005 Gabriel Sousa Lange
